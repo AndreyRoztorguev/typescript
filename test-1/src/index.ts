@@ -11,3 +11,6 @@ function getMyDay(): Days {
   return Days["Friday"];
 }
 getMyDay();
+
+const arr = [1];
+arr.customMethod();
